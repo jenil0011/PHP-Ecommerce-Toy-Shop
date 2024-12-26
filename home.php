@@ -75,7 +75,7 @@ include 'components/wishlist_cart.php';
                     </div>
                     <div class="content">
                         <span>upto 40% off</span>
-                        <h3>on latest toy cars</h3>
+                        <h3>on latest Toy cars</h3>
                         <a href="shop.php" class="btn">shop now</a>
                     </div>
                 </div>
